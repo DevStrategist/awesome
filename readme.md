@@ -777,6 +777,7 @@
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+- [Aleo](https://github.com/demox-labs/awesome-aleo#readme) - An open-source, private application building platform that enables privacy on blockchains.
 
 ## Higher Education
 
